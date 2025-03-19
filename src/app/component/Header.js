@@ -18,7 +18,7 @@ const Header = () => {
               className="block text-teal-600 text-3xl font-bold dark:text-teal-300"
               href="#"
             >
-              UDZSW Solutions
+              Vishal Yadav
             </a>
           </div>
 
@@ -76,14 +76,14 @@ const Header = () => {
             <div className="hidden sm:flex sm:gap-4">
               <a
                 className="inline-block rounded bg-green-600 px-4 py-2 text-sm font-medium text-gray-300 transition hover:bg-green-700"
-                href="https://wa.link/xragmj"
+                href="https://wa.link/48sbvw"
                 target="_blank"
               >
                 <WhatsAppIcon /> Whatsapp Us
               </a>
               <a
                 className="inline-block rounded bg-blue-600 px-4 py-2 text-sm font-medium text-gray-300 transition hover:bg-blue-700"
-                href="tel:+918107037979"
+                href="tel:+919506280968"
                 target="_blank"
               >
                <CallIcon/> Call Us
@@ -164,7 +164,7 @@ const Header = () => {
               <li>
                 <a
                   className="block rounded bg-green-600 md:w-full w-32 px-4 py-2 text-sm font-medium text-gray-300 transition hover:bg-green-700"
-                  href="https://wa.link/xragmj"
+                  href="https://wa.link/48sbvw"
                   target="_blank"
                 >
                   Whatsapp Us
@@ -173,7 +173,7 @@ const Header = () => {
               <li>
                 <a
                   className="block rounded bg-blue-600 md:w-full w-20 px-4 py-2 text-sm font-medium text-gray-300 transition hover:bg-blue-700"
-                  href="tel:+918107037979"
+                  href="tel:+919506280968"
                   target="_blank"
                 >
                   Call Us

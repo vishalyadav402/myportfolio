@@ -8,7 +8,7 @@ const Footer = () => {
       
 
       <p className="mt-4 text-center text-sm text-gray-500 lg:mt-0 lg:text-right dark:text-gray-400">
-        Copyright &copy; 2024. All rights reserved.
+        Copyright &copy; 2025. All rights reserved.
       </p>
     </div>
   </div>

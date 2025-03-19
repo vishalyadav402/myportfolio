@@ -16,19 +16,19 @@ export default function RootLayout({ children }) {
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     {/* <meta name="viewport" content="width=device-width, initial-scale=1.0"/> */}
       <meta name="viewport" content="width=100%, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-    <title>UDZSW Solutions - A Software Develeopment Company</title>
+    <title>Vishal Yadav - Senior Frontend Developer (Next JS/ React JS/ Tailwind CSS/ Material UI)</title>
 
-    <meta name="title" content="UDZSW Solutions - A Software Develeopment Company"/>
-    <meta name="description" content="UDZSW Solutions is a trusted software development company offering innovative IT solutions for businesses of all sizes."/>
+    <meta name="title" content="Vishal Yadav - Senior Frontend Developer (Next JS/ React JS/ Tailwind CSS/ Material UI)"/>
+    <meta name="description" content="I am offering innovative IT solutions for businesses of all sizes."/>
     <meta name="robots" content="index, follow"/>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta name="language" content="English"/>
-    <meta name="author" content="UDZSW Solutions"/>
+    <meta name="author" content="Vishal Yadav"/>
 
-    <meta property="og:title" content="UDZSW Solutions - A Software Develeopment Company"/>
-    <meta property="og:site_name" content="advikanexgenit.com"/>
-    <meta property="og:url" content="https://https:/advikanexgenit.com/"/>
-    <meta property="og:description" content="UDZSW Solutions is a trusted software development company offering innovative IT solutions for businesses of all sizes."/>
+    <meta property="og:title" content="Vishal Yadav - Senior Frontend Developer (Next JS/ React JS/ Tailwind CSS/ Material UI)"/>
+    <meta property="og:site_name" content="vishalyadav.com"/>
+    <meta property="og:url" content="https://https:/vishalyadav.com/"/>
+    <meta property="og:description" content="Vishal Yadav - Senior Frontend Developer (Next JS/ React JS/ Tailwind CSS/ Material UI)"/>
     <meta property="og:type" content=""/>
     <meta property="og:image" content="https://udzsw_solutions.s3.us-east-2.amazonaws.com/public/github/landwind/og-image.png"/>
     <meta name="twitter:card" content="summary" />
@@ -48,7 +48,7 @@ export default function RootLayout({ children }) {
         <ClientLayout>{children}</ClientLayout>
 
         <a
-          href="https://wa.link/xragmj" target="_blank"
+          href="https://wa.link/48sbvw" target="_blank"
           className="fixed lg:hidden md:hidden sm:hidden bottom-4 left-4 z-50 p-3 bg-green-500 rounded-full shadow-lg hover:bg-green-600 transition"
           rel="noopener noreferrer" // Security feature
         >
